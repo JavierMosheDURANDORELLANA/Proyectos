@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "proyecto-1-3ef7b": {
+      "hosting": {
+        "proyecto": [
+          "proyecto-1-3ef7b"
+        ]
+      }
+    }
+  }
+}
